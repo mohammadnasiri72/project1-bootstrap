@@ -1,0 +1,140 @@
+@media (max-width:576px) {}
+
+@media (max-width:768px) {}
+
+@media (max-width:992px) {}
+
+@media (max-width:1200px) {}
+
+
+
+
+
+@media (min-width: 0px) {
+    .box-img-part-left-section4 {
+        width: 50%;
+    }
+
+    .img-part-left-section4 {
+        width: 100px;
+        height: 100px;
+    }
+    .icon-box-section3 {
+        font-size: 25px;
+        width: 40px;
+        height: 40px;
+    }
+    .box-right-section5{
+        margin-top: 50px;
+    }
+}
+
+
+@media (min-width: 576px) {
+    .part-right-section1 {
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .part-left-section1 {
+        width: 100%;
+        margin-top: 50px;
+        text-align: center;
+    }
+
+    .part-left-box-section3 {
+        width: 100%;
+    }
+
+    .part-right-box-section3 {
+        width: 100%;
+    }
+
+    .box-img-part-left-section4 {
+        width: 50%;
+    }
+
+    .img-part-left-section4 {
+        width: 150px;
+        height: 150px;
+    }
+
+    .part-left-section4 {
+        width: 100%;
+    }
+
+    
+    .icon-box-section3 {
+        font-size: 45px;
+        width: 70px;
+        height: 70px;
+    }
+    .box-left-section5{
+        width: 100%;
+    }
+    .box-right-section5{
+        margin-top: 50px;
+    }
+}
+
+@media (min-width: 768px) {
+    .part-right-section1 {
+        width: 50%;
+    }
+
+    .part-left-section1 {
+        width: 50%;
+    }
+
+    .part-left-box-section3 {
+        width: 48%;
+    }
+
+    .part-right-box-section3 {
+        width: 48%;
+    }
+
+    .box-img-part-left-section4 {
+        width: 50%;
+    }
+
+    .img-part-left-section4 {
+        width: 150px;
+        height: 150px;
+    }
+
+    .part-left-section4 {
+        width: 100%;
+    }
+
+    .part-right-section4 {
+        width: 100%;
+    }
+    .box-left-section5{
+        width: 50%;
+    }
+    .box-right-section5{
+        margin-top: 0px;
+    }
+}
+
+@media (min-width: 992px) {
+    .box-img-part-left-section4 {
+        width: 50%;
+    }
+
+    .img-part-left-section4 {
+        width: 200px;
+        height: 200px;
+    }
+
+    .part-right-section4 {
+        width: 50%;
+    }
+
+    .part-left-section4 {
+        width: 50%;
+    }
+}
+
+@media (min-width: 1200px) {}
